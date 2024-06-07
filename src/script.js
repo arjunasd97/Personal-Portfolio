@@ -35,7 +35,7 @@ const textLoad = () => {
     text.textContent = "Business Analyst";
   }, 4000);
   setTimeout(() => {
-    text.textContent = "Data Engineering Enthusiast";
+    text.textContent = "Data Engineering ";
   }, 8000); //1s = 1000 milliseconds
 };
 textLoad();
